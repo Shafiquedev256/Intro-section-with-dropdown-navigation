@@ -10,8 +10,8 @@ function App() {
    <Containor/>
    </div>
   <div className=" text-gray-400 absolute py-5">
-    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-   <br/>musinguzi-shafiq</a>.
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. coded by 
+  <a> musinguzi-shafiq</a>.
   </div>
     </>
   )
