@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://intro-section-with-dropdown-navigation-pi-drab.vercel.app/)
+
+- Live Site URL: [Click](https://intro-section-with-dropdown-navigation-pi-drab.vercel.app/)
 
 ## My process
 
@@ -41,27 +41,13 @@ Users should be able to:
 - [React](https://reactjs.org/) 
 - Tailwindcss
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+
 
 ### What I learned
 
 I learned to deal  with dropdown using  Tailwind
 
 
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
 ## Author
 
 - LinkedIn - [Musinguzi Shafiq](www.linkedin.com/in/)
