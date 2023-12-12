@@ -50,7 +50,7 @@ I learned to deal  with dropdown using  Tailwind
 
 ## Author
 
-- LinkedIn - [Musinguzi Shafiq](www.linkedin.com/in/)
+- LinkedIn - Musinguzi Shafiq
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 
 
