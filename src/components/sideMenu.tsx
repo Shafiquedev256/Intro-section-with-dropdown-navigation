@@ -23,8 +23,8 @@ export const SideMenu = (props:SideMprops)=>{
     <img src={closeMenuIcon} onClick={closeMenu} className="right-0 mr-5 mt-5 absolute"/>
     <div>
     <div className="w-40 h-16"></div>
-  <Features appear="block shadow-none"/>
-   <Company appear="block shadow-none"/>
+  <Features/>
+   <Company />
     <div className="p-3 border border-[1px] rounded-2xl border-white hover:border-purple-600 text-center mt-3">Login</div>
     <div className="p-3 border border-[1px] rounded-2xl border-black hover:border-purple-600 text-center my-2">Register</div>
     </div>

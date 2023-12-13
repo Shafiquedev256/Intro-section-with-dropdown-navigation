@@ -8,11 +8,9 @@ import planningIcone from "../assets/icon-planning.svg"
 
 type Isopen = "open"|"closed"
 type DropImg = string 
-type Nature = {
- appear: string
-}
 
-export const Features = (appear:Nature)=>{
+
+export const Features = ()=>{
   const [isOpen,setIsopen] = useState<Isopen>("closed")
   const [imgDrop,setImgDrop] = useState<DropImg>(downIcone)
   
@@ -33,7 +31,7 @@ export const Features = (appear:Nature)=>{
    <img src={imgDrop}/>
     </div>
     {isOpen==="open"&&
-    <ul className={`dropdown md:absolute ${appear} bg-white  p-1 rounded mt-0.5 z-10 w-max`}>
+    <ul className={`dropdown md:absolute md:shadow-lg bg-white  p-1 rounded mt-0.5 z-10 w-max`}>
     <li className="hover:bg-gray-100 hover:font-bold flex flex-row items-center p-1.5 rounded">
     <img src={todoIcone}/>
     <span className="pl-2">Todo List</span>

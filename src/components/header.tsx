@@ -21,8 +21,8 @@ export const Header = ()=>{
     <div className="bg-white p-3 flex flex-row items-center justify-between select-none">
     <div className="flex flex-row justify-between  w-2/4">
     <img src={logo}/>
-   <span className="hidden md:block"> <Features appear=" shadow-lg"/></span>
-    <span className="hidden md:block"><Company appear=" shadow-lg"/></span>
+   <span className="hidden md:block"> <Features/></span>
+    <span className="hidden md:block"><Company/></span>
     <div className="font-bold hidden md:block">Careers</div>
     <div className="font-bold hidden md:block">About</div>
     </div>
